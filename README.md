@@ -1,16 +1,26 @@
-# theme-mang-inasal README
+# Theme-Mang Inasal 🍗🍗🍗
 
-## Working with Markdown
+# Contributing
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I welcome contributions from everyone! Here are some ways you can help:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Reporting Bugs
 
-## For more information
+If you find a bug, please open an issue on our [GitHub repository](https://github.com/aivantuquero/Theme-Mang-Inasal/issues) and provide as much detail as possible. This will help us reproduce the issue and fix it quickly.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Suggesting Enhancements
 
-**Enjoy!**
+If you have an idea for a new feature or an improvement to an existing one, please open an issue on our [GitHub repository](https://github.com/aivantuquero/Theme-Mang-Inasal/issues) and describe your suggestion. I'll review it and discuss it with you.
+
+## Contributing Code
+
+I welcome pull requests! Here's how to contribute code:
+
+1. Fork the repository and create a new branch.
+2. Make your changes and commit them.
+3. Push your changes to your fork.
+4. Open a pull request on our [GitHub repository](https://github.com/aivantuquero/Theme-Mang-Inasal/pulls) and describe your changes.
+
+I'll review your pull request and provide feedback. Once your changes are approved, I'll merge them into the main branch.
+
+**Made by: Aivan Carlos Tuquero**
