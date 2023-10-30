@@ -1,0 +1,21 @@
+{
+  "name": "theme-mang-inasal",
+  "displayName": "Theme-Mang Inasal",
+  "description": "Satisfy your unli-rice cravings with this Mang Inasal inspired theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme-Mang Inasal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme-Mang Inasal-color-theme.json"
+      }
+    ]
+  }
+}
