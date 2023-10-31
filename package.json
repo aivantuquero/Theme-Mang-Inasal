@@ -2,8 +2,9 @@
   "name": "theme-mang-inasal",
   "displayName": "Theme-Mang Inasal",
   "publisher": "AivanCarlosTuquero",
-  "description": "Satisfy your unli-rice cravings with this Mang Inasal inspired theme.",
-  "version": "0.0.1",
+  "description": "Satisfy your unli-rice cravings with this Mang Inasal inspired theme. 🍗🍗🍚🍚",
+  "icon": "icon.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -18,5 +19,19 @@
         "path": "./themes/Theme-Mang Inasal-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "mang inasal",
+    "chicken",
+    "rice",
+    "unli-rice",
+    "unlimited rice",
+    "food",
+    "restaurant",
+    "minimalist",
+    "syntax highlighting",
+    "beautiful"
+  ]
 }

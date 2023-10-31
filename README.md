@@ -1,9 +1,17 @@
 # Theme-Mang Inasal 🍗🍗🍗
+
 Satisfy your unli-rice cravings with this Mang Inasal inspired theme. 🍗🍗🍚🍚
-![besttasting](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/2846d296-c2ae-4b68-8240-65dc99555884)
+
 #
+
+![besttasting](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/2846d296-c2ae-4b68-8240-65dc99555884)
+
+#
+
 ![4d19326af80faa5e614025c0b225f003](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/c034caa3-f286-4ae4-b55d-3543a301d6b7)
-# 
+
+#
+
 ![image](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/e016fe1c-97b7-4c61-bdaf-81e36083d596)
 
 ## Contributing
