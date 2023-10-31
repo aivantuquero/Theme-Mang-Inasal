@@ -4,7 +4,7 @@
   "publisher": "AivanCarlosTuquero",
   "description": "Satisfy your unli-rice cravings with this Mang Inasal inspired theme. 🍗🍗🍚🍚",
   "icon": "icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.83.0"
   },
