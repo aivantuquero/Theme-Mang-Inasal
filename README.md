@@ -14,6 +14,11 @@ Satisfy your unli-rice cravings with this Mang Inasal inspired theme. 🍗🍗�
 
 ![image](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/e016fe1c-97b7-4c61-bdaf-81e36083d596)
 
+## How to Install
+1. Search Mang Inasal from you VS Code Extensions:Marketplace
+![image](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/b6862f6d-a7b4-4113-8404-b6139aab2ffb)
+2. Click Install
+
 ## Contributing
 
 I welcome contributions from everyone! Here are some ways you can help:
