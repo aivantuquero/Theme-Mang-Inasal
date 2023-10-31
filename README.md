@@ -19,7 +19,8 @@ Satisfy your unli-rice cravings with this Mang Inasal inspired theme. 🍗🍗�
 
 ## How to Install
 1. Search Mang Inasal from you VS Code Extensions:Marketplace
-![image](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/b6862f6d-a7b4-4113-8404-b6139aab2ffb)
+![image](https://github.com/aivantuquero/Theme-Mang-Inasal/assets/54162088/5e88236b-093f-418d-8c64-45deda9f3eb3)
+
 2. Click Install
 
 ## Contributing
